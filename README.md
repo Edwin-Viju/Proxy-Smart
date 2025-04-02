@@ -5,7 +5,7 @@
 
 
 
-🔒 **Proxy Smart** is an innovative **Proximity-Based Security System** designed to protect your personal belongings from theft and accidental loss. By integrating an **electronic device** with a **mobile app**, users can set a distance threshold, triggering an **instant alarm** if the set distance is breached.  
+🔒 **Proxy Smart** is my new project which is an innovative **Proximity-Based Security System** designed to protect your personal belongings from theft and accidental loss. By integrating an **electronic device** with a **mobile app**, users can set a distance threshold, triggering an **instant alarm** if the set distance is breached.  
 
 ---
 
